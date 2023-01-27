@@ -1,0 +1,22 @@
+python test.py --content input/content/cornell.jpg --style input/style/woman_with_hat_matisse.jpg
+python test.py --content input/content/cornell.jpg --style input/style/woman_with_hat_matisse.jpg
+python test.py --content input/content/cornell.jpg --style input/style/woman_with_hat_matisse.jpg
+python test.py --content input/content/cornell.jpg --style input/style/woman_with_hat_matisse.jpg
+python test.py --content input/content/cornell.jpg --style input/style/woman_with_hat_matisse.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style ./adv/attack1.png
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg --adv
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg --adv
+python test.py --content input/content/cornell.jpg --style ./adv/attack2.jpg
+python test.py --content input/content/cornell.jpg --style ./adv/attack2.png
+python test.py --content input/content/cornell.jpg --style ./adv/attack2_org.png
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg --adv
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg --adv
+python test.py --content input/content/cornell.jpg --style input/style/flower_of_life.jpg --adv
+python test.py --content input/content/cornell.jpg --style ./adv/attack3.png
